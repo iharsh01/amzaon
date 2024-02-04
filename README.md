@@ -1,1 +1,1 @@
-# amzon
+# amazon
